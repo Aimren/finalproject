@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mypro.Page2">
+    <StackLayout BackgroundColor="#FFFBD6" x:Name="outStack">
+    <Label Text="MY COURSES" HorizontalTextAlignment="Center" Margin="0,15,0,0" FontSize="Large" />
+
+    <StackLayout x:Name="holderStack" BackgroundColor="#FFFBD6">
+          
+     </StackLayout>
+
+    </StackLayout>
+</ContentPage>

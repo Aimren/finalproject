@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mypro.Page1">
+    <ContentPage.Content>
+
+        <StackLayout BackgroundColor="#FFFBD6">
+
+            <Label Text="COURSES" HorizontalTextAlignment="Center" Margin="0,15,0,0" FontSize="Large" />
+
+            <Frame BackgroundColor="#ffcc66" HeightRequest="60" Padding="7,7,7,7" CornerRadius="6" >
+                <Picker Title="Select a course!" x:Name="myPicker"  
+            SelectedIndexChanged="PickerCtl_OnSelectedIndexChanged"
+             BackgroundColor="White" HeightRequest="20">
+                    <Picker.Items>
+                    </Picker.Items>
+
+                </Picker>
+            </Frame>
+
+            <Button Text="ADD COURSE" Clicked="OnDersEkle_Clicked" x:Name="dersBut" BackgroundColor="#b30012" TextColor="White" CornerRadius="7"  HeightRequest="40" Margin="50,0,50,0"></Button>
+            <Button Text="SHOW MY COURSES" Clicked="OnDersGoster_Clicked" x:Name="dersGosBut" BackgroundColor="#b30012" TextColor="White" CornerRadius="7"  HeightRequest="40" Margin="50,0,50,0"></Button>
+            <Button Text="CLEAR COURSES" Clicked="OnDersSil_Clicked" x:Name="dersSil" BackgroundColor="#b30012" TextColor="White" CornerRadius="7"  HeightRequest="40" Margin="50,0,50,0"></Button>
+        </StackLayout>
+        
+
+    </ContentPage.Content>
+</ContentPage>

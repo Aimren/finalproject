@@ -1,0 +1,15 @@
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\bin\Debug\netstandard2.0\mypro.deps.json
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\bin\Debug\netstandard2.0\mypro.dll
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\bin\Debug\netstandard2.0\mypro.pdb
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\mypro.csprojAssemblyReference.cache
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\mypro.csproj.CoreCompileInputs.cache
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\mypro.AssemblyInfoInputs.cache
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\mypro.AssemblyInfo.cs
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\mypro.dll
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\mypro.pdb
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\TabbedPage1.xaml.g.cs
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mcan\source\repos\mypro\mypro\mypro\obj\Debug\netstandard2.0\Page2.xaml.g.cs

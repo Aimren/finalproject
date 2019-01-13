@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="mypro.TabbedPage1">
+  <!--Pages can be added as references or inline-->
+    <ContentPage Title="COURSE INFO" BackgroundColor="#FFFBD6"  >
+        <StackLayout>
+           <StackLayout x:Name="CoInfo" ></StackLayout>
+        <Button Text="BACK" VerticalOptions="EndAndExpand" BackgroundColor="#b30012" TextColor="White" CornerRadius="7"  HeightRequest="40" Margin="50,0,50,7" Clicked="goBack_Clicked"></Button>
+        </StackLayout>
+    </ContentPage>
+
+    <ContentPage Title="ANNOUNCEMENTS" BackgroundColor="#FFFBD6" >
+
+        <StackLayout>
+            <StackLayout x:Name="Anno" ></StackLayout>
+            <Button Text="BACK" VerticalOptions="EndAndExpand" BackgroundColor="#b30012" TextColor="White" CornerRadius="7"  HeightRequest="40" Margin="50,0,50,7" Clicked="goBack_Clicked"></Button>
+        </StackLayout>
+
+    </ContentPage >
+
+    <ContentPage Title="ASSIGMENTS" BackgroundColor="#FFFBD6">
+
+        <StackLayout>
+        <StackLayout x:Name="Assi" ></StackLayout>
+            <Button Text="BACK" VerticalOptions="EndAndExpand" BackgroundColor="#b30012" TextColor="White" CornerRadius="7"  HeightRequest="40" Margin="50,0,50,7" Clicked="goBack_Clicked"></Button>
+            
+        </StackLayout>
+
+    </ContentPage>
+
+    <ContentPage Title="NEW SUBJECTS" BackgroundColor="#FFFBD6">
+
+        <StackLayout>
+        <StackLayout x:Name="Newss" ></StackLayout>
+
+            <Button Text="BACK" VerticalOptions="EndAndExpand" BackgroundColor="#b30012" TextColor="White" CornerRadius="7"  HeightRequest="40" Margin="50,0,50,7" Clicked="goBack_Clicked"></Button>
+       
+        </StackLayout>
+
+
+    </ContentPage>
+</TabbedPage>
